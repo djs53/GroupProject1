@@ -22,6 +22,9 @@ public class HelloWorld {
     public static void Casserly() {
         System.out.println("Shawn Casserly!!");
     }
-    
+    public static void SchaumWasHere(){
+     System.out.println("Schaum was here");
+ }
+
     
 }
